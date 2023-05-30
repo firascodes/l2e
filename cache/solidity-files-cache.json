@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\firas\\Documents\\Uni Coding\\Coding\\Blockchain\\l2e\\l2e\\contracts\\l2e.sol": {
+      "lastModificationDate": 1685292428746,
+      "contentHash": "ec22182944500f8c99f15c3e45d2a2be",
+      "sourceName": "contracts/l2e.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Learn2Earn"
+      ]
+    }
+  }
+}
